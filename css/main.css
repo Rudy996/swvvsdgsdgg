@@ -1,0 +1,849 @@
+
+
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+header h2 {
+	color: black;
+}
+
+header {
+	height: 945px;
+}
+
+header a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.lileft, .liright {
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 20px;
+	font-size: 16px;
+
+}
+
+
+header p {
+	text-align: center;
+	padding-right: 65px;
+
+}
+
+header a {
+	color: #989696;
+}
+
+header li {
+	padding: 0px;
+	margin: 0px;
+}
+
+.logo {
+	text-align: center;
+
+}
+
+header li {
+	margin-right: 40px;
+	text-align: center;
+}
+
+.hh {
+	margin-top: 300px;
+	text-align: center;
+}
+
+.hh h1 {
+	font-size: 44px;
+	text-align: center;
+}
+
+.p { 
+	color:  #989696;
+ }
+
+.but {
+	text-align: center;
+	border: solid;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border-width: 2px;
+	background: white;
+	color: black;
+}
+
+.date {
+	background: url('../img/bg.png') no-repeat;
+	background-size: 100%;
+	color: #fff;
+	height: 1350px;
+}
+
+
+
+.date p {
+	color: #b7b7b7;
+}
+
+.leftd {
+	padding-top: 120px;
+	text-align: right;
+	padding-right: 20px;
+	}
+
+.leftd p {
+	margin-bottom: 209px;
+}
+
+.rightd {
+	padding-top: 220px;
+	padding-left: 20px;
+}
+
+.rightd p {
+	margin-bottom: 285px;
+}
+
+.team h1 {
+	text-align: center;
+}
+
+.team {
+	height: 750px;
+}
+
+.team h1 {
+	padding-top: 140px;
+}
+
+.pp {
+	text-align: center;
+	color: #898888;
+}
+
+.teamm {
+	text-align: center;
+	padding-top: 130px;
+}
+
+.teamm1 {
+
+	text-align: center;
+	padding-top: 185px;
+}
+
+.teamm h2 {
+	padding-top: 20px;
+}
+
+.teamm1 h2 {
+	padding-top: 20px;
+}
+
+.teamm p {
+	color: #b3b3b3;
+}
+
+.teamm1 p {
+	color: #b3b3b3;
+}
+
+.services {
+	background: url(../img/bgv.png) no-repeat;
+	background-size: 100%;
+	color: #fff;
+	text-align: center;
+	height: 1650px;
+}
+
+.services h1 {
+	padding-top: 250px;
+}
+
+.lg {
+	color: #777777;
+}
+
+.services img {
+	padding-top: 215px;
+}
+
+.services h2 {
+	padding-top: 30px;
+
+}
+
+.services p {
+	color: #383838;
+}
+
+.services a {
+	text-decoration: none;
+}
+
+.butt {
+	border: solid;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: 60px;
+	margin-right: 60px;
+	border-width: 1px;
+	background: #fff;
+	color: black;
+	margin-top: 230px;
+	text-decoration: none;
+
+}
+
+.contact {
+	text-align: center;
+}
+
+.contact p {
+	color: #898888;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+.name, .email, .number {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 270px;
+	padding-right: 270px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.write {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 520px;
+	padding-left: 20px;
+	margin-top: 20px;
+	text-align: left;
+	padding-bottom: 170px;
+}
+
+.submit {
+	border: solid;
+	background: #161616;
+	color: #fff;
+	padding-right: 335px;
+	padding-left: 340px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.icon {
+	display: none;
+}
+
+.but:hover {
+	background: black;
+	color: white;
+	transition-duration: 0.5s;
+}
+
+.butt:hover {
+	font-size: 18px;
+	text-decoration: underline;
+}
+
+
+footer {
+	margin-top: 35px;
+	text-align: center;
+	background: black;
+	color: #fff;
+}
+
+footer img {
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #fff;
+	font-size: 19px;
+}
+
+footer a {
+	text-decoration: none;
+	color: #fff;
+	margin-right: 40px;
+	text-align: center;
+}
+
+.hh h1 {
+	padding: 0px;
+	text-align: center;
+}
+
+.p {
+	padding-left: 55px;
+	text-align: center;
+}
+
+
+/* about */
+
+.pp {
+	padding-left: 35px;
+}
+
+.not {
+	text-align: center;
+}
+
+.not p {
+	color: #989696;
+}
+
+
+
+.ho img{
+	padding-top: 90px;
+	filter: grayscale(1);
+	padding-bottom: 120px;
+
+}
+
+.ho img:hover {
+	filter: none;
+	transition-duration: 0.5s;
+}
+
+
+/* blog */
+
+.header {
+	height: 600px;
+}
+
+.header h1 {
+	padding-top: 0px;
+	margin: 0px;
+}
+
+.imp {
+	padding-top: 200px;
+}
+
+.not h2 {
+	padding-top: 200px;
+	text-align: left;
+}
+
+.ops {
+	padding-left: 60px;
+}
+
+.op {
+	color: #989696;
+	text-align: left;
+}
+.impg {
+	padding-top: 100px;
+}
+
+.ops1 h2 {
+	padding-top: 100px;
+}
+
+.ops1 {
+	padding-left: 60px;
+}
+
+/* team */
+
+.lq {
+	padding: 0;
+	margin: 0;
+}
+
+.teamm2 {
+	text-align: center;
+	padding-top: 240px;
+	padding-bottom: 40px;
+}
+
+.teamm2 p {
+    color: #b3b3b3;
+}
+
+.footer {
+	margin-top: 350px;
+}
+
+/* services */
+
+.usl h1 {
+	text-align: center;
+}
+
+.mj img{
+	width: 50%;
+
+}
+
+.mj {
+	text-align: center;
+	padding-top: 150px;
+	width: 30%;
+	
+}
+
+.mj h3 {
+	padding-top: 20px;
+}
+
+.border:hover {
+	border-color: yellow;
+}
+
+input.button4 {
+  position: relative;
+  display: inline-block;
+  font-family: Arial,Helvetica,FreeSans,"Liberation Sans","Nimbus Sans L",sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: rgb(245,245,245);
+  text-shadow: 0 -1px rgba(0,0,0,.1);
+  text-decoration: none;
+  user-select: none;
+  padding: .3em 1em;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  background: #0c9c0d linear-gradient(#82d18d, #0c9c0d);
+  box-shadow: inset #72de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+  -webkit-animation: pulsate 1.2s linear infinite;
+  animation: pulsate 1.2s linear infinite;
+}
+input.button4:hover {
+  -webkit-animation-play-state: paused;
+  animation-play-state: paused;
+  cursor: pointer;
+}
+input.button4:active {
+  top: 1px;
+  color: #fff;
+  text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;
+  box-shadow: 0 -1px 3px rgba(0,0,0,.3), 0 1px 1px #fff, inset 0 1px 2px rgba(0,0,0,.8), inset 0 -1px 0 rgba(0,0,0,.05);
+}
+@-webkit-keyframes pulsate {
+  50% {color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;}
+}
+@keyframes pulsate {
+  50% {color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;}
+}
+
+.border {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.border p {
+	color: #989696;
+}
+
+
+/* contact */
+
+.map {
+	padding-top: 200px;
+}
+
+.text h1{
+	padding-top: 180px;
+	padding-left: 80px;
+	text-align: center;
+	font-size: 72px;
+}
+
+.name1 {
+	width: 40%;
+	margin-left: 60px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.surname {
+	width: 40%;
+	margin-left: 25px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.number1 {
+	margin-left: 60px;
+	width: 85%;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 25px;
+}
+
+a.button25 {
+  position: relative;
+  display: inline-block;
+  width: 10em;
+  height: 2.5em;
+  line-height: 2.5em;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #777;
+  color: #fff;
+  outline: none;
+  border: 2px solid #F64C2B;
+  border-radius: 5px;
+  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
+  background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+}
+a.button25:active {
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+
+a.button25 {
+	margin-top: 50px;
+	width: 85%;
+	margin-left: 60px;
+}
+
+
+
+
+@media screen and (max-width: 1440px) {
+	.contact input {
+		margin-left: 20px;
+	}
+
+	button {
+		margin-left: 21px;
+	}
+
+	.team h1 {
+		padding-top: 0px;
+	}
+}
+
+
+
+@media screen and (max-width:1200px) {
+
+	header {
+		background-size: 100vh;
+	}
+
+	header a {
+		font-size: 12px;
+	}
+	header {
+		height: 800px;
+	}
+
+	.hh  {
+		margin-top: 200px;
+	}
+
+	.leftd {
+		padding-top: 70px;
+	}
+
+	.leftd p {
+		margin-bottom: 110px;
+	}
+
+	.rightd {
+		padding-top: 140px;
+	}
+
+	.rightd p {
+		margin-bottom: 150px;
+	}
+
+
+
+	.services {
+		height: 1000px;
+	}
+
+	.services img {
+		padding-top: 80px;
+	}
+
+	.services h1 {
+		padding-top: 150px;
+	}
+
+	.butt {
+		margin-top: 90px;
+		margin-bottom: 0px;
+	}
+
+	.contact .name, .email, .number {
+		padding-right: 230px;
+		padding-left: 230px;
+	}
+
+	.write {
+		padding-right: 440px;
+
+	}
+
+	.submit {
+		padding-right: 300px;
+		text-align: center;
+	}
+
+	.servicer {
+		height: 1850px;
+	}
+
+	.ops, .ops1 {
+		padding-left: 100px;
+	}
+
+	.not h2 {
+		padding-top: -20px;
+	}
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 991px) {
+	.tttl {
+		height: 2800px;
+		background: black;
+	}
+
+	header a {
+		font-size: 34px;
+	}
+
+
+
+	.menu1.responsive a {
+		font-size: 40px;
+	}
+
+	.menu1 {
+		display: none;
+		font-size: 40px;
+	}
+
+	.icon {
+		display: block;
+		font-size: 60px;
+	}
+
+	.menu1.responsive {
+		position: relative;
+	}
+
+	a.icon {
+		position: absolute;
+	}
+
+	.menu1.responsive {
+		display: block;
+	}
+
+	header li {
+	}
+
+	.logo {
+		padding-left: 50px;
+	}
+
+
+
+
+	.leftd {
+	text-align: center;		
+
+	}
+
+	.rightd {
+		margin: 0px;
+		text-align: center;
+	}
+
+	.leftd h1 {
+		font-size: 140px;
+	}
+
+	.leftd p {
+		font-size: 44px;
+	}
+
+	.rightd h1 {
+		font-size: 140px;
+	}
+
+	.rightd p {
+		font-size: 44px;
+	}
+
+	.team h1 {
+		font-size: 92px;
+		padding-top: 00px;
+	}
+
+	.pp {
+		font-size: 40px;
+	}
+
+	.team {
+		height: 2400px;
+	}
+
+	.team h1 {
+		padding-top: 100px;
+	}
+
+	.teamm {
+	 	width: 125%;
+	 	height: 125%;
+	}
+
+	.contact h1 {
+		padding-top: 100px;
+		font-size: 110px;
+	}
+
+	.omg {
+		font-size: 40px;
+	}
+
+	.teamm1 {
+	
+	}
+
+	.services {
+		background: black;
+		height: 1900px;
+	}
+
+	.services h1 {
+		font-size: 92px;
+	}
+
+	.services h2 {
+		font-size: 72px;
+	}
+
+	.butt {
+		font-size: 50px;
+	}
+
+	.cl {
+		padding-bottom: 0px;
+		margin-bottom: 0px;
+	}	
+
+	p.butt {
+		margin-top: 0px;
+		padding-right: 20px;
+		border-radius: 25px;
+	}
+
+
+	.ls {
+		width: 33%;
+	}
+
+	.contact input {
+		margin-left: 30px;
+	}
+
+	footer img {
+		padding-right: 25px;
+	}
+
+	button {
+		padding-right: 50px;
+		text-align: center;
+	}
+
+	.ho img {
+		padding-top: 50px;
+	}
+
+	.teamm2 {
+		width: 33%;
+	}
+
+	.ftr {
+		margin-top: 870px;
+	}
+
+	input {
+		width: 100%;
+		height: 20%;
+		font-size: 40px;
+
+	}
+
+	input.write {
+		height: 25%;
+
+	}
+
+	.submit {
+		margin-top: 130px;
+		font-size: 52px;
+		width: 100%;
+		text-align: left;
+	}
+
+	.pps {
+		width: 320px;
+		height: 320px;
+	}
+
+	.teamm1 h2, .teamm  h2{
+		font-size: 72px
+	}
+
+	.teamm1 p, .teamm p {
+		font-size: 40px;
+	}
+
+	.hh h1 {
+		font-size: 120px;
+	}
+
+	.hh p {
+		font-size: 40px;
+	}
+
+	.but {
+		font-size: 72px;
+	}
+
+	.mainn {
+		height: 1100px;
+	}
+
+}
+
+
+
+
+
